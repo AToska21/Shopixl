@@ -11,7 +11,7 @@ WIP (Because Buycraft is expensive and not everybody can afford it.)
 # How to install?
 * Download latest release
 * Upload to your Web-Server and extract
-* Open <your-site-url>/path/to/install and follow the guide through the installation proccess
+* Open your-site-url.tld/path/to/install and follow the guide through the installation proccess
 
 # Credits
 WIP
