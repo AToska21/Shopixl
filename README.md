@@ -17,4 +17,4 @@ WIP (Because Buycraft is expensive and not everybody can afford it.)
 WIP
 
 # License
-Shopixl is licensed under the [MIT License(https://github.com/Skayo/Shopixl/blob/master/LICENSE.md "Go to License")
+Shopixl is licensed under the [MIT License](https://github.com/Skayo/Shopixl/blob/master/LICENSE.md "Go to License")
