@@ -1,6 +1,6 @@
 ![Shopixl Logo](https://s2.postimg.org/ems4zkzah/logotxt.png)
 # Shopixl
-Open-source, self-hosted, Buycraft alternative.
+### Open-source, self-hosted, Buycraft alternative.
 
 # What?
 WIP (Webstore for Minecraft Servers.)
